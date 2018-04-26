@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "shooter",
+"dataUrl": "tps tester.data.unityweb",
+"asmCodeUrl": "tps tester.asm.code.unityweb",
+"asmMemoryUrl": "tps tester.asm.memory.unityweb",
+"asmFrameworkUrl": "tps tester.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
